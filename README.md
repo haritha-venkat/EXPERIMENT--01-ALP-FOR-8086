@@ -169,7 +169,7 @@ MOV [0050h+03],ax;
 ret
 ```
 ## Output
-![Uploading image.png…]()
+![image](https://github.com/haritha-venkat/EXPERIMENT--01-ALP-FOR-8086/assets/121285701/0c430748-e36d-42c1-9bfc-2d3479ead80d)
 
 ## Result :
 Thus, ALP for fundamental arithmetic and logical operations are executed successfully.
