@@ -84,7 +84,7 @@ MOV [6379h],al;
 ret
 ```
 ## Output  
- ![OUTPUT](Output1-pmc1.png)
+![image](https://github.com/haritha-venkat/EXPERIMENT--01-ALP-FOR-8086/assets/121285701/2f4a4c26-ace0-4190-a5df-743d377ef98f)
  
 ## Subtraction 
 ```python
@@ -96,7 +96,7 @@ MOV [8798h],bl;
 ret
 ```
 ## Output
-![OUTPUT](Output2-pmc1.png)
+![image](https://github.com/haritha-venkat/EXPERIMENT--01-ALP-FOR-8086/assets/121285701/bf5618e2-8cd9-4e29-9d63-2990ec7fea59)
 
 ## Multiplication
 ```python
@@ -108,7 +108,7 @@ MOV [6063h],bl;
 ret
 ```
  ## Output  
-![OUTPUT](Output3-pmc1.png)
+![image](https://github.com/haritha-venkat/EXPERIMENT--01-ALP-FOR-8086/assets/121285701/312d7774-c92f-464e-bce7-6e0ca079aa3f)
 
 ## Division
 ```python
@@ -120,7 +120,8 @@ MOV [2399h],al;
 ret
 ```
 ## Output  
-![OUTPUT](Output4-pmc1.png)
+![image](https://github.com/haritha-venkat/EXPERIMENT--01-ALP-FOR-8086/assets/121285701/3dd0595d-2c27-438c-a7e1-464482cce025)
+
 ## Programs for logical  operations
 
 ## AND
@@ -132,7 +133,7 @@ MOV [0040h+02],bx;
 ret
 ```
 ## Output 
-![OUTPUT](Output5-pmc1.png)
+![image](https://github.com/haritha-venkat/EXPERIMENT--01-ALP-FOR-8086/assets/121285701/3d79262b-852c-4cf5-945e-f716c7eb9562)
 
 ## OR
 ```python
@@ -144,7 +145,8 @@ MOV [0060h],ax;
 ret
 ```
 ## Output
-![OUTPUT](Output6-pmc1.png)
+![image](https://github.com/haritha-venkat/EXPERIMENT--01-ALP-FOR-8086/assets/121285701/81d69116-2bed-4210-900e-8708fa3a79de)
+
 ## NOT
 ```python
 org 100h
@@ -155,7 +157,7 @@ MOV [0060h+04],ax;
 ret
 ```
 ## Output
-![OUTPUT](Output7-pmc1.png)
+![image](https://github.com/haritha-venkat/EXPERIMENT--01-ALP-FOR-8086/assets/121285701/b475794e-267a-48da-a848-c3beb29afe7a)
 
 ## XOR
 ```python
@@ -167,7 +169,7 @@ MOV [0050h+03],ax;
 ret
 ```
 ## Output
-![OUTPUT](Output8-pmc1.png)
+![Uploading image.png…]()
 
 ## Result :
 Thus, ALP for fundamental arithmetic and logical operations are executed successfully.
